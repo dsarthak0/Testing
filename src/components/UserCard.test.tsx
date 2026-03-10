@@ -27,7 +27,7 @@ describe('UserCard', () => {
   it('renders user name after fetch completes', async () => {
     render(<UserCard userId={1} />);
     await waitFor(() => {
-      expect(screen.getByText('John Doe')).not.toBeInTheDocument();
+      expect(screen.getByText('John Doe')).toBeInTheDocument();
     });
   });
 });
