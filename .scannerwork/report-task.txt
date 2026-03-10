@@ -1,0 +1,6 @@
+projectKey=sonarQube
+serverUrl=https://expert-computing-machine-9p55xwx4rg7crq9-9000.app.github.dev
+serverVersion=10.7.0.96327
+dashboardUrl=https://expert-computing-machine-9p55xwx4rg7crq9-9000.app.github.dev/dashboard?id=sonarQube
+ceTaskId=3e37b44d-4924-49f6-b4d6-bcbe8e184262
+ceTaskUrl=https://expert-computing-machine-9p55xwx4rg7crq9-9000.app.github.dev/api/ce/task?id=3e37b44d-4924-49f6-b4d6-bcbe8e184262
